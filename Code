@@ -3,7 +3,7 @@
 #include <cstdlib>
 
 int main() {
-    for (int i = 0; i < 10; i++) {
+    for (int i = 0; i < 1000; i++) {
         system("start cmd /C \"color 0C && echo You've been CMDRAPED && timeout /T 2 && exit\"");
     }
     return 0;
